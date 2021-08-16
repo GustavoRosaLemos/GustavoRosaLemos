@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**GustavoRosaLemos/GustavoRosaLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/gustavorosalemos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavorosalemos&show_icons=true&count_private=true&include_all_commits=true"/>
+</div>
+<div>
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/java-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/python-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/go-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/html5-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/css3-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/angularjs-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=27&color=7008b4"/>
+    <img src="https://icongr.am/devicon/jquery-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/mysql-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/mongodb-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/git-original.svg?size=27&color=ffffff"/>
+    <img src="https://icongr.am/devicon/bitbucket-original.svg?size=27&color=ffffff"/>
+  </div>
