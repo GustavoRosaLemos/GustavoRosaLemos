@@ -1,8 +1,8 @@
 <div>
-  <a href="https://www.linkedin.com/in/gustavorosalemos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gustavorosalemos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavorosalemos&show_icons=true&count_private=true&include_all_commits=true"/>
+  <a href="https://www.linkedin.com/in/gustavorosalemos/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=gustavorosalemos&show_icons=true&count_private=true&include_all_commits=true"/></a>
 </div>
 <div>
     <img src="https://icongr.am/devicon/javascript-original.svg?size=27&color=ffffff"/>
